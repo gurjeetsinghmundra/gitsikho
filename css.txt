@@ -1,4 +1,6 @@
 /*inline css
 internal css
 external css
-*/ (aur baaki hai)
+*/
+(aur baaki hai)
+(ek web page)
