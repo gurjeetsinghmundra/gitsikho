@@ -1,3 +1,3 @@
 sql sikho
 in process
-sikhlenge
+haina
