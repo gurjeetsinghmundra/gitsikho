@@ -13,3 +13,5 @@ one
 joins done almost
 trigger remaining
 do revise
+study for atleast 
+15 mins every day
