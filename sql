@@ -17,3 +17,4 @@ study for atleast
 15 mins every day
 trigger
 advance sql
+1 to 2 weeks remaining 
