@@ -19,3 +19,4 @@ trigger
 advance sql
 1 to 2 weeks remaining 
 then java
+sql test done
