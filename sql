@@ -4,7 +4,7 @@ haina
 joins 
 & all
 to be done
-hjjvt
+
 one week more
 again 
 one more
@@ -21,3 +21,4 @@ advance sql
 then java
 sql test done
 (8weeksqlchallenge)
+one week remaining 
