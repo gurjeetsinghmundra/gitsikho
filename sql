@@ -22,3 +22,4 @@ then java
 sql test done
 (8weeksqlchallenge)
 one week remaining 
+then java
